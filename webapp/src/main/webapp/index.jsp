@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>POCO Mobiles Offers Soon</h1>   
+         <h1>POCO Mobiles Offer Till OCT End</h1> 
 	 
 
     </section>    
