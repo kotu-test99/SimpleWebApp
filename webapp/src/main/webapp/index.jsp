@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>GAME CHANGER....RC15</h1> 
+         <h1>Game Changer..RC15</h1> 
 	 
 
     </section>    
