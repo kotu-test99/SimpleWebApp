@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>My Mobile Name is POCO X3</h1> 
+         <h1>POCOX3 Mobiles Unavailable</h1> 
 	 
 
     </section>    
