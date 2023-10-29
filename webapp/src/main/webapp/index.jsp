@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Game Changer..RC15</h1> 
+         <h1>Myntra Offers started soon..</h1> 
 	 
 
     </section>    
