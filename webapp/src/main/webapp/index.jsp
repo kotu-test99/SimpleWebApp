@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Flipkard offers soon..</h1> 
+         <h1>Flipkard shopping website</h1> 
 	 
 
     </section>    
